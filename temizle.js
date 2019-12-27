@@ -21,4 +21,4 @@ exports.help = {
   category: 'yetkili'
 };
 
-//Coders Code
+//CSD's Code Server
